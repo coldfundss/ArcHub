@@ -1,7 +1,7 @@
 {
     "Universal": {
-        "URL": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Example/Uni.lua'))()",
+        "URL": "loadstring(game:HttpGet('https://raw.githubusercontent.com/Example/Universal.lua'))()",
         "Status": "Undetected",
-        "Description": "ESP and Infinite Jump for all games."
+        "Description": "Features: ESP, Infinite Jump, and Speed. Works in every game."
     }
 }
